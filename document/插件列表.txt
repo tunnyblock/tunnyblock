@@ -1,0 +1,42 @@
+1.Bootstrap
+http://www.bootcss.com/
+
+2.zTree
+http://www.ztree.me/v3/main.php#_zTreeInfo
+
+3.bootstrap datetimepicker
+http://tarruda.github.io/bootstrap-datetimepicker/
+
+4.File Input
+http://jinnianshilongnian.iteye.com/blog/1819895
+http://festatic.aliapp.com/js/jquery-upload/
+
+5.Star
+http://plugins.krajee.com/star-rating/demo
+
+6.Highcharts
+http://www.hcharts.cn/
+
+7.Image
+http://www.jasonbutz.info/bootstrap-lightbox/
+
+8.HTML Editor
+http://hackerwins.github.io/summernote/
+
+9.Popover
+http://clu3.github.io/bootstro.js/#
+
+10.Dialog
+http://nakupanda.github.io/bootstrap3-dialog/
+
+12.Calendar
+http://bootstrap-calendar.azurewebsites.net/
+
+http://zabuto.com/dev/calendar/examples/show_data.html
+
+13.AutoComplete
+http://xdsoft.net/jqplugins/autocomplete
+
+14.Image
+http://fancyapps.com/fancybox/
+
